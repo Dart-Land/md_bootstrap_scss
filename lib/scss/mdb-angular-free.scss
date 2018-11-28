@@ -28,9 +28,9 @@
  @charset "UTF-8";
 
  // Bootstrap
- @import "bootstrap/bootstrap";
- @import "bootstrap/bootstrap-grid";
- @import "bootstrap/bootstrap-reboot";
+//  @import "bootstrap/bootstrap";
+//  @import "bootstrap/bootstrap-grid";
+//  @import "bootstrap/bootstrap-reboot";
  @import "core/bootstrap/functions";
  @import "core/bootstrap/variables";
 
@@ -46,24 +46,22 @@
  @import "core/masks";
  @import "core/waves";
 
-// FREE
-@import "free/animations-basic";
-@import "free/animations-extended";
-@import "free/buttons";
-@import "free/cards";
-@import "free/dropdowns";
-@import "free/navbars";
-@import "free/pagination";
-@import "free/badges";
-@import "free/modals";
-@import "free/carousels";
-@import "free/forms";
-@import "free/input-group";
-@import "free/msc";
-@import "free/footers";
-@import "free/list-group";
-@import "free/tables";
-@import "free/depreciated";
+// Angular
+@import "angular/breadcrumbs";
+@import "angular/inputs";
+@import "angular/cards";
+@import "angular/list-group";
+@import "angular/navbar";
+@import "angular/waves";
+@import "angular/dropdowns";
+@import "angular/tooltip";
+@import "angular/sections";
+@import "angular/popover";
+@import "angular/carousel";
+@import "angular/maps";
+@import "angular/layout";
+@import "angular/modals";
+@import "angular/checkbox";
 
 
 // Your custom styles

@@ -6,5 +6,5 @@ builders:
     auto_apply: dependents
     build_extensions:
       .scss: [".css"]
-      .sass: [".css"]
+      # .sass: [".css"]
     build_to: source
