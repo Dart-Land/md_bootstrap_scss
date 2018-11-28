@@ -1,8 +1,8 @@
-name: md_bootstrap_sass
+name: md_bootstrap_scss
 version: 4.1.3+0
 description: Angular Bootstrap with Material Design Sass source (free version)
 author: TLM <source@legionmarket.com>
-homepage: https://github.com/Dart-Land/md_bootstrap_sass
+homepage: https://github.com/Dart-Land/md_bootstrap_scss
 environment:
   sdk: '2.1.0 < 3.0.0'
 dev_dependencies:
