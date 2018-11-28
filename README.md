@@ -24,7 +24,7 @@ into your Sass powered applications.
 bellow:
 
 ``` yaml
-name: bootstrap_scss_example # change this line to have your library name
+name: md_bootstrap_scss_example # change this line to have your library name
 description: An absolute bare-bones web app.
 environment:
   sdk: '2.1.0 < 3.0.0'
