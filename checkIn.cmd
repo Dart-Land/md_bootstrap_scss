@@ -1,1 +1,1 @@
-git add -A && git commit -m "fixed typo" && git push
+git add -A && git commit -m "updated bootstrap" && git push
